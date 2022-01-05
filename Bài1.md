@@ -1,5 +1,10 @@
 # Quản lý sinh viên
 
+## Tạo DATABASE
+```sql
+CREATE DATABASE student
+```
+## Tạo bảng
 ```sql
 CREATE TABLE subject(
 	id INT PRIMARY KEY AUTO_INCREMENT,
